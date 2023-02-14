@@ -1,10 +1,10 @@
 [
   {
-   "title": "project title",
-        "folder": "name of the folder",
-        "author": "my name",
-        "year": "folder name of the year",
-        "info": "info about your project",
+   "title": "Volleyball Rotation Simulator",
+        "folder": "VBRotationsWebGL",
+        "author": "Jakob Gschwendtner",
+        "year": "2022_WS",
+        "info": "-",
         "status": "0"
   }
  
